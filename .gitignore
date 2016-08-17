@@ -8,3 +8,19 @@ web/bower*
 web/bootstrap.less
 web/src/main/webapp/public/bower/components/*
 
+/out/
+.idea/
+common/common.iml
+common/src/main/main2.iml
+common/src/test/test1.iml
+documenter.iml
+out/
+src/
+web/WEB-INF/
+web/index.jsp
+web/src/main/main.iml
+web/src/test/test.iml
+web/web.iml
+workers/src/main/main1.iml
+workers/src/test/test2.iml
+workers/workers.iml
